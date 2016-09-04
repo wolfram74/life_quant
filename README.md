@@ -1,2 +1,4 @@
 # life_quant
-a little stand alone app for tallying activities.
+A little stand alone app for tallying activities.
+
+Both for personal usage and getting a feel for how local storage works.
